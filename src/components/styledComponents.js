@@ -47,7 +47,7 @@ export const DragDrop = styled.div`
             overflow-x: auto;
 
             li {
-                width: 100px;
+                min-width: 100px;
                 margin-right: 10px;
                 font-size: 10px;
             }
