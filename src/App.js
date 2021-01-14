@@ -47,7 +47,7 @@ const App = () => {
   return (
     <>
       <Wrapper>
-        <Heading2>Drag and Drop</Heading2>
+        <Heading2>-Drag and Drop-</Heading2>
         <DragDrop>
           <DragDropContext onDragEnd={handleOnDragEnd}>
             <Blogs posts={posts}/>
